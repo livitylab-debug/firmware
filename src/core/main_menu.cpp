@@ -17,6 +17,7 @@ MainMenu::MainMenu() {
         &fmMenu,
 #endif
         &fileMenu,
+        &geigerMenu,
         &gpsMenu,
         &nrf24Menu,
 #if !defined(LITE_VERSION)
